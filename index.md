@@ -20,6 +20,4 @@ My research interests include computer vision and deep learning with particular 
 
 ## Publications
 
-- F.Bar, J.Doe: Effects of having a placeholder of a name
-
 ## Awards
