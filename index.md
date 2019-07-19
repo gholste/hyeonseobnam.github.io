@@ -5,7 +5,7 @@ title: Hyeonseob Nam
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="hsnam.png">
 
 I am a research scientist at [Lunit Inc.](https://lunit.io/).
 I received my B.Sc. and M.Sc. degrees in Computer Science and Engineering from [POSTECH](http://www.postech.ac.kr/eng/), under the supervision of Professor [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/).
