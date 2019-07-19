@@ -9,3 +9,7 @@ tracking_id: #
 sass:
     style: compressed
     sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "https://scholar.google.com/citations?user=X9BkR3MAAAAJ/"
