@@ -55,12 +55,13 @@
 </head>
 <body>
     <div class="wrapper">
-        <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
-        <a id="email" class="alignable pull-left">{{ site.email }}</a>
         <div class="navbar container">
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
             {% endif %}
+            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
+            <br>
+            <id="email" class="alignable pull-left">{{ site.email }}</>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
