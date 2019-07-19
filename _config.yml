@@ -1,15 +1,10 @@
 title: Hyeonseob Nam
 url: "https://hyeonseobnam.github.io"
-baseurl: "/"
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
