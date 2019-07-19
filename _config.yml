@@ -1,22 +1,11 @@
-remote_theme: "ankitsultana/researcher@gem"
-
 title: Hyeonseob Nam
 url: "https://hyeonseobnam.github.io"
 baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 sass:
     style: compressed
     sass_dir: _sass
-
-#nav:
-# - name: "About"
-#   link: "/researcher/"
-# - name: "Resume"
-#   link: "resume.pdf"
-# - name: "Contact"
-#   link: "contact"
