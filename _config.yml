@@ -11,5 +11,5 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "Google Scholar"
    link: "https://scholar.google.com/citations?user=X9BkR3MAAAAJ/"
