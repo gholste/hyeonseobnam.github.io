@@ -7,9 +7,9 @@ title: Hyeonseob Nam
 
 <img class="profile-picture" src="hsnam.png">
 
-I am a research scientist at [Lunit Inc.](https://lunit.io/), working on deep learning with medical images.
+I am a research scientist at [Lunit](https://lunit.io/), working on deep learning with medical images.
 I received my B.S. and M.S. degrees in Computer Science and Engineering from [POSTECH](http://www.postech.ac.kr/eng/), advised by Prof. [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/), where I pioneered the intersection of deep learning and visual tracking.
-Before joining Lunit, I worked as a machine learning engineer at [Naver Labs](https://www.naverlabs.com/en/).
+Before joining Lunit, I worked as a machine learning engineer at [NAVER LABS](https://www.naverlabs.com/en/).
 My research interests include computer vision and deep learning, with particular focus on the robustness of models in real-world scenarios.
 
 ## Education
@@ -20,15 +20,18 @@ My research interests include computer vision and deep learning, with particular
 ## Work Experience 
 
 - **Research Scientist**, [Lunit Inc.](https://lunit.io/) (Dec. 2017 - Current)
-- **Research Engineer**, [Naver Labs.](https://www.naverlabs.com/en/) (Mar. 2016 - Nov. 2017)
+- **Research Engineer**, [NAVER LABS Corp.](https://www.naverlabs.com/en/) (Mar. 2016 - Nov. 2017)
 
 ## Publications
+
+- <span class="paper-title">[Dual Attention Networks for Multimodal Reasoning and Matching](https://arxiv.org/pdf/1611.00471.pdf)</span><br />
+  **Hyeonseob Nam**, Jung-Woo Ha, Jeonghee Kim<br />
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017<br />
 
 - <span class="paper-title">[Modeling and Propagating CNNs in a Tree Structure for Visual Tracking](https://arxiv.org/pdf/1608.07242.pdf)</span><br />
   **Hyeonseob Nam**\*, Mooyeol Baek\*, Bohyung Han (\* equal contribution)<br />
   Tech report, arXiv, 2016<br />
   
-
 - <span class="paper-title">[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://arxiv.org/pdf/1510.07945.pdf)</span><br />
   **Hyeonseob Nam**, Bohyung Han<br />
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016<br />
