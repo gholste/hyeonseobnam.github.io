@@ -10,7 +10,7 @@ title: Hyeonseob Nam
 I am a research scientist at [Lunit](https://lunit.io/), working on deep learning with medical images.
 I received my B.S. and M.S. degrees in Computer Science and Engineering from [POSTECH](http://www.postech.ac.kr/eng/), advised by Prof. [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/), where I pioneered the intersection of deep learning and visual tracking.
 Before joining Lunit, I worked as a machine learning engineer at [NAVER LABS](https://www.naverlabs.com/en/).
-My research interests include computer vision and deep learning, with particular focus on the robustness of models in real-world scenarios.
+My research interests include computer vision and deep learning with particular focus on the robustness of models in real-world scenarios.
 
 ## Education
 
@@ -55,8 +55,8 @@ My research interests include computer vision and deep learning, with particular
 
 ## Awards
 
-- **Runner-up**, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), 2016, CVPR Workshop 
-- **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), 2016, ECCV Workshop 
-- **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), 2015, ICCV Workshop 
+- **Runner-up**, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), CVPR Workshop, 2016
+- **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), ECCV Workshop, 2016
+- **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), ICCV Workshop, 2015
 - Qualcomm Innovation Award, 2015
 
