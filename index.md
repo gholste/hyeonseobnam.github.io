@@ -25,9 +25,10 @@ My research interests include computer vision and deep learning, with particular
 
 ## Publications
 
-- Online graph-based tracking<br />
+- [Online graph-based tracking](http://cvlab.postech.ac.kr/~maga33/eccv2014_OGT.pdf)<br />
   **Hyeonseob Nam**, Seunghoon Hong, Bohyung Han<br />
-  in **ECCV** 2014
+  in **ECCV** 2014<br />
+  [[project](http://cvlab.postech.ac.kr/research/beyondchainmodels/)]
 
 ## Awards
 
