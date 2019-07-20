@@ -55,15 +55,15 @@
 </head>
 <body>
     <div class="wrapper">
-	<div class="navbar-author" class="alignable pull-left">
+        <div class="navbar container">
+	    <div class="navbar-author" class="alignable pull-left">
 		<a id="author-name" href="{{ site.baseurl }}">{{ site.title }}</a><br />
 		<span id="author-info">
 		{{ site.job_title }}<br />
 		{{ site.affiliation }}<br />
 		{{ site.email }}
 		</span>
-	</div>
-        <div class="navbar container">
+	    </div>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
