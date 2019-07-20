@@ -42,10 +42,12 @@ hr {
     font-size: 17px;
     color: #272727;
     display: inline-block;
-    margin: auto;
+}
+.navbar-author {
+    padding: 50px 0 0 0;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+    padding: 0 0 50px 0;
 }
 .navbar-ul {
     display: inline-block;
