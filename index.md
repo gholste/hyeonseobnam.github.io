@@ -46,7 +46,7 @@ My research interests include computer vision and deep learning with particular 
   **Hyeonseob Nam**, Bohyung Han<br />
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016<br />
   [[project page](http://cvlab.postech.ac.kr/research/mdnet/)]
-  [[code (matlab)](https://github.com/hyeonseobnam/py-MDNet)]
+  [[code (matlab)](https://github.com/hyeonseobnam/MDNet)]
   [[code (python)](https://github.com/hyeonseobnam/py-MDNet)]
 
 - <span class="paper-title">[Online Graph-based Tracking](http://cvlab.postech.ac.kr/~maga33/eccv2014_OGT.pdf)</span><br />
