@@ -18,7 +18,7 @@ My research interests include computer vision and deep learning with particular 
 ## Education
 
 - **M.S.** [Computer Vision Lab.](http://cvlab.postech.ac.kr/lab/), [POSTECH](http://www.postech.ac.kr/eng/)
-- **B.S.** [Dept. Computer Science and Engineering](https://cse.postech.ac.kr/), [POSTECH](http://www.postech.ac.kr/eng/)
+- **B.S.** [Department of Computer Science and Engineering](https://cse.postech.ac.kr/), [POSTECH](http://www.postech.ac.kr/eng/)
 
 ## Work Experience 
 
