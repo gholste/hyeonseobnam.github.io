@@ -25,6 +25,9 @@ My research interests include computer vision and deep learning, with particular
 
 ## Publications
 
+- Online graph-based tracking
+  **Hyeonseob Nam**, Seunghoon Hong, Bohyung Han
+  in **ECCV** 2014
 
 ## Awards
 
