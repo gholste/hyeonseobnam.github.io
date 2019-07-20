@@ -14,7 +14,7 @@ My research interests include computer vision and deep learning, with particular
 
 ## Education
 
-- **M.S.** in Computer Science and Engineering, [Computer Vision Lab.](http://cvlab.postech.ac.kr/lab/), [POSTECH](http://www.postech.ac.kr/eng/) (Sept. 2013 - Feb. 2016)
+- **M.S.** in Computer Science and Engineering, [Computer Vision Lab](http://cvlab.postech.ac.kr/lab/), [POSTECH](http://www.postech.ac.kr/eng/) (Sept. 2013 - Feb. 2016)
 - **B.S.** in Computer Science and Engineering, [POSTECH](http://www.postech.ac.kr/eng/) (Mar. 2009 - Aug. 2013)
 
 ## Work Experience 
@@ -24,10 +24,15 @@ My research interests include computer vision and deep learning, with particular
 
 ## Publications
 
+- <span class="paper-title">[Learning multi-domain convolutional neural networks for visual tracking](https://arxiv.org/pdf/1510.07945.pdf)</span><br />
+  **Hyeonseob Nam**, Bohyung Han<br />
+  in **CVPR** 2016<br />
+  [[project]](http://cvlab.postech.ac.kr/research/mdnet/)
+
 - <span class="paper-title">[Online Graph-Based Tracking](http://cvlab.postech.ac.kr/~maga33/eccv2014_OGT.pdf)</span><br />
   **Hyeonseob Nam**, Seunghoon Hong, Bohyung Han<br />
   in **ECCV** 2014<br />
-  [[project](http://cvlab.postech.ac.kr/research/beyondchainmodels/)]
+  [[project]](http://cvlab.postech.ac.kr/research/beyondchainmodels/)
 
 ## Awards
 
