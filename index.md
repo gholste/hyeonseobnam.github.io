@@ -8,7 +8,7 @@ title: Hyeonseob Nam
 <img class="profile-picture" src="hsnam.png">
 
 I am a research scientist at [Lunit Inc.](https://lunit.io/), working on deep learning with medical images.
-I received my B.Sc. and M.Sc. degrees in Computer Science and Engineering from [POSTECH](http://www.postech.ac.kr/eng/), advised by Prof. [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/), where I pioneered the intersection of deep learning and visual tracking.
+I received my B.S. and M.S. degrees in Computer Science and Engineering from [POSTECH](http://www.postech.ac.kr/eng/), advised by Prof. [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/), where I pioneered the intersection of deep learning and visual tracking.
 Before joining Lunit, I worked as a machine learning engineer at [Naver Labs](https://www.naverlabs.com/en/).
 My research interests include computer vision and deep learning, with particular focus on the robustness of models in real-world scenarios.
 
