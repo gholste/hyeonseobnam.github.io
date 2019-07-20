@@ -13,15 +13,17 @@ During my M.Sc., I focused on the intersection of deep learning and visual track
 Before joining Lunit, I worked as a research engineer at [Naver Labs](https://www.naverlabs.com/en/).
 My research interests include computer vision and deep learning with particular focus on robustness and generalization under multi-domain scenarios.
 
-## News
-
 ## Education
 
-- **M.S.** [Computer Vision Lab.](http://cvlab.postech.ac.kr/lab/), [POSTECH](http://www.postech.ac.kr/eng/)
-- **B.S.** [Department of Computer Science and Engineering](https://cse.postech.ac.kr/), [POSTECH](http://www.postech.ac.kr/eng/)
+- **M.S.** [Computer Vision Lab.](http://cvlab.postech.ac.kr/lab/), [POSTECH](http://www.postech.ac.kr/eng/) (Sept. 2013 - Feb. 2016)
+- **B.S.** [Department of Computer Science and Engineering](https://cse.postech.ac.kr/), [POSTECH](http://www.postech.ac.kr/eng/) (Mar. 2009 - Aug. 2013)
 
 ## Work Experience 
 
+- Research Scientist, [Lunit Inc.](https://lunit.io/) (Dec. 2017 - Current)
+- Research Engineer, [Naver Labs.](https://www.naverlabs.com/en/) (Mar. 2016 - Nov. 2017)
+
 ## Publications
+
 
 ## Awards
