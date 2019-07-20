@@ -36,21 +36,22 @@ My research interests include computer vision and deep learning with particular 
 
 - <span class="paper-title">[Dual Attention Networks for Multimodal Reasoning and Matching](https://arxiv.org/pdf/1611.00471.pdf)</span><br />
   **Hyeonseob Nam**, Jung-Woo Ha, Jeonghee Kim<br />
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017, **Spotlight presentation**<br />
-  The Runner-Up of VQA2016 Challenge<br />
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017<br />
+  *Spotlight presentation*<br />
+  *The Runner-Up of VQA2016 Challenge*
 
 - <span class="paper-title">[Modeling and Propagating CNNs in a Tree Structure for Visual Tracking](https://arxiv.org/pdf/1608.07242.pdf)</span><br />
   **Hyeonseob Nam**\*, Mooyeol Baek\*, Bohyung Han (\* equal contribution)<br />
   Tech report, arXiv, 2016<br />
-  The Winner of VOT2016 Challenge<br />
+  *The Winner of VOT2016 Challenge*
   
 - <span class="paper-title">[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://arxiv.org/pdf/1510.07945.pdf)</span><br />
   **Hyeonseob Nam**, Bohyung Han<br />
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016<br />
-  The Winner of VOT2015 Challenge<br />
-  [[project page](http://cvlab.postech.ac.kr/research/mdnet/)]
-  [[code (matlab)](https://github.com/hyeonseobnam/MDNet)]
-  [[code (python)](https://github.com/hyeonseobnam/py-MDNet)]
+  *The Winner of VOT2015 Challenge*<br />
+  [[project](http://cvlab.postech.ac.kr/research/mdnet/)]
+  [[code-matlab](https://github.com/hyeonseobnam/MDNet)]
+  [[code-python](https://github.com/hyeonseobnam/py-MDNet)]
 
 - <span class="paper-title">[Online Graph-based Tracking](http://cvlab.postech.ac.kr/~maga33/eccv2014_OGT.pdf)</span><br />
   **Hyeonseob Nam**, Seunghoon Hong, Bohyung Han<br />
