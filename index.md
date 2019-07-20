@@ -24,13 +24,23 @@ My research interests include computer vision and deep learning, with particular
 
 ## Publications
 
+- <span class="paper-title">[SRM: A Style-based Recalibration Module for Convolutional Neural Networks](https://arxiv.org/pdf/1903.10829.pdf)</span><br />
+  HyunJae Lee, Hyo-Eun Kim, **Hyeonseob Nam**<br />
+  Tech report, arXiv, 2019<br />
+  [[code]](https://github.com/hyunjaelee410/style-based-recalibration-module)
+
+- <span class="paper-title">[Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks](https://arxiv.org/pdf/1805.07925.pdf)</span><br />
+  **Hyeonseob Nam**, Hyo-Eun Kim<br />
+  Conference on Neural Information Processing Systems (**NeurIPS**), 2018<br />
+  [[code]](https://github.com/hyeonseob-nam/Batch-Instance-Normalization)
+
 - <span class="paper-title">[Dual Attention Networks for Multimodal Reasoning and Matching](https://arxiv.org/pdf/1611.00471.pdf)</span><br />
   **Hyeonseob Nam**, Jung-Woo Ha, Jeonghee Kim<br />
-  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017<br />
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017
 
 - <span class="paper-title">[Modeling and Propagating CNNs in a Tree Structure for Visual Tracking](https://arxiv.org/pdf/1608.07242.pdf)</span><br />
   **Hyeonseob Nam**\*, Mooyeol Baek\*, Bohyung Han (\* equal contribution)<br />
-  Tech report, arXiv, 2016<br />
+  Tech report, arXiv, 2016
   
 - <span class="paper-title">[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://arxiv.org/pdf/1510.07945.pdf)</span><br />
   **Hyeonseob Nam**, Bohyung Han<br />
@@ -38,7 +48,7 @@ My research interests include computer vision and deep learning, with particular
   [[project]](http://cvlab.postech.ac.kr/research/mdnet/)
   [[code]](https://github.com/hyeonseobnam/py-MDNet)
 
-- <span class="paper-title">[Online Graph-Based Tracking](http://cvlab.postech.ac.kr/~maga33/eccv2014_OGT.pdf)</span><br />
+- <span class="paper-title">[Online Graph-based Tracking](http://cvlab.postech.ac.kr/~maga33/eccv2014_OGT.pdf)</span><br />
   **Hyeonseob Nam**, Seunghoon Hong, Bohyung Han<br />
   European Conference on Computer Vision (**ECCV**), 2014<br />
   [[project]](http://cvlab.postech.ac.kr/research/beyondchainmodels/)
