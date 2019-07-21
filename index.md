@@ -57,7 +57,7 @@ My research interests include computer vision and deep learning with particular 
   European Conference on Computer Vision (**ECCV**), 2014<br />
   [[project](http://cvlab.postech.ac.kr/research/beyondchainmodels/)]
 
-## Awards
+## Honors and Awards
 
 - **Runner-up**, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), CVPR Workshop, 2016
 - **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), ECCV Workshop, 2016
