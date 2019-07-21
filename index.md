@@ -63,4 +63,3 @@ My research interests include computer vision and deep learning with particular 
 - **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), ECCV Workshop, 2016
 - **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), ICCV Workshop, 2015
 - Qualcomm Innovation Award, 2015
-
