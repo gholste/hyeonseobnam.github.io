@@ -13,9 +13,9 @@ Before joining Lunit, I worked as a machine learning engineer at [NAVER LABS](ht
 My research interests include computer vision and deep learning with particular focus on multi-domain problems and robustness in real-world scenarios.
 
 ## News
-- [Oct. 2019] We won the **1st place** in [Visual Domain Adaptation (VisDA) 2019 Challenge](http://ai.bu.edu/visda-2019/) (semi-supervised domain adaptation).
-- [Oct. 2019] I will be giving an invited talk at [Visual Recognition for Medical Images (VRMI) Workshop](https://sites.google.com/view/iccv19-vrmi) at **ICCV 2019**.
-- [Jul. 2019] Our paper **"SRM: A Style-based Recalibration Module for Convolutional Neural Networks"** is accepted to **ICCV 2019**.
+- [10/2019] We won the **1st place** in [Visual Domain Adaptation (VisDA) 2019 Challenge](http://ai.bu.edu/visda-2019/) (semi-supervised domain adaptation).
+- [10/2019] I will be giving an invited talk at [Visual Recognition for Medical Images (VRMI) Workshop](https://sites.google.com/view/iccv19-vrmi) at **ICCV 2019**.
+- [07/2019] Our paper **"SRM: A Style-based Recalibration Module for Convolutional Neural Networks"** is accepted to **ICCV 2019**.
 
 ## Education
 
