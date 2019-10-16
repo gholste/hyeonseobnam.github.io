@@ -31,7 +31,7 @@ My research interests include computer vision and deep learning with particular 
 
 - <span class="paper-title">[SRM: A Style-based Recalibration Module for Convolutional Neural Networks](https://arxiv.org/pdf/1903.10829.pdf)</span><br />
   HyunJae Lee, Hyo-Eun Kim, **Hyeonseob Nam**<br />
-  IEEE International Conference on Computer Vision (**ICCV**), 2019, To appear<br />
+  IEEE International Conference on Computer Vision (**ICCV**), 2019<br />
   [[code](https://github.com/hyunjaelee410/style-based-recalibration-module)]
 
 - <span class="paper-title">[Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks](https://arxiv.org/pdf/1805.07925.pdf)</span><br />
