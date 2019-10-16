@@ -12,6 +12,11 @@ I received my B.S. and M.S. degrees in Computer Science and Engineering from [PO
 Before joining Lunit, I worked as a machine learning engineer at [NAVER LABS](https://www.naverlabs.com/en/).
 My research interests include computer vision and deep learning with particular focus on multi-domain problems and robustness in real-world scenarios.
 
+## News
+- [Oct. 2019] We won the **1st place** in [Visual Domain Adaptation (VisDA) 2019 Challenge](http://ai.bu.edu/visda-2019/): semi-supervised domain adaptation, which will be presented at [TASK-CV Workshop, ICCV 2019](https://sites.google.com/view/task-cv2019).
+- [Oct. 2019] I will be giving an invited talk at [VRMI Workshop, ICCV 2019](https://sites.google.com/view/iccv19-vrmi).
+- [Jul. 2019] Our paper **"SRM: A Style-based Recalibration Module for Convolutional Neural Networks"** is accepted to ICCV 2019.
+
 ## Education
 
 - **M.S.** in Computer Science and Engineering, [Computer Vision Lab](http://cvlab.postech.ac.kr/lab/), [POSTECH](http://www.postech.ac.kr/eng/) (Sept. 2013 - Feb. 2016)
