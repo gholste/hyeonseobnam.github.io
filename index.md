@@ -65,8 +65,8 @@ My research interests include computer vision and deep learning with particular 
 ## Honors and Awards
 
 - **Winner**, [Visual Domain Adaptation (VisDA) Challenge](http://ai.bu.edu/visda-2019/), ICCV Workshop, 2019
-- **Runner-up**, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), CVPR Workshop, 2016
 - **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), ECCV Workshop, 2016
+- **Runner-up**, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), CVPR Workshop, 2016
 - **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), ICCV Workshop, 2015
 - Qualcomm Innovation Award, 2015
 
