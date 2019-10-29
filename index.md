@@ -9,7 +9,7 @@ title: Hyeonseob Nam
 
 I am a research scientist at [Lunit](https://lunit.io/?lang=en), working on deep learning with medical images.
 I received my B.S. and M.S. degrees in Computer Science and Engineering from [POSTECH](http://www.postech.ac.kr/eng/), advised by Prof. [Bohyung Han](https://cv.snu.ac.kr/index.php/~bhhan/), where I pioneered the intersection of deep learning and visual tracking.
-Before joining Lunit, I worked as a machine learning engineer at [NAVER LABS](https://www.naverlabs.com/en/).
+Before joining Lunit, I worked as a machine learning engineer at [NAVER](https://www.navercorp.com/en).
 My research interests include computer vision and deep learning with particular focus on multi-domain problems and robustness in real-world scenarios.
 
 ## News
@@ -25,7 +25,7 @@ My research interests include computer vision and deep learning with particular 
 ## Work Experience 
 
 - **Research Scientist**, [Lunit Inc.](https://lunit.io/?lang=en) (Dec. 2017 - Current)
-- **Research Engineer**, [NAVER LABS Corp.](https://www.naverlabs.com/en/) (Mar. 2016 - Nov. 2017)
+- **Research Engineer**, [NAVER LCorp.](https://www.navercorp.com/en) (Mar. 2016 - Nov. 2017)
 
 ## Publications
 
@@ -66,6 +66,14 @@ My research interests include computer vision and deep learning with particular 
   **Hyeonseob Nam**, Seunghoon Hong, Bohyung Han<br />
   European Conference on Computer Vision (**ECCV**), 2014<br />
   [[project](http://cvlab.postech.ac.kr/research/beyondchainmodels/)]
+
+## Invited Talks
+- [VRMI](https://sites.google.com/view/iccv19-vrmi) Workshop at ICCV, 2019 [[slides]](https://drive.google.com/file/d/1aDhpjYnSTi_w4qJIo9Enj0Y6IleWWnz4/view?usp=sharing)
+- [LG CNS](http://www.lgcns.com/LGCNS.GHP.Main/Etc/SiteMain), 2018
+- [SK T-Brain](https://www.skt.ai/index.do), 2016
+- [StradVision](https://www.stradvision.com/), 2016
+- [NAVER LABS](https://www.naverlabs.com/en/), 2015
+
 
 ## Honors and Awards
 
