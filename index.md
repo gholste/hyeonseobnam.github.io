@@ -69,7 +69,7 @@ My research interests include computer vision and deep learning with particular 
 
 
 ## Invited Talks
-- [VRMI Workshop](https://sites.google.com/view/iccv19-vrmi) at ICCV, "Towards Overcomming Style Variability in Medical Images" [[slides](https://drive.google.com/file/d/1aDhpjYnSTi_w4qJIo9Enj0Y6IleWWnz4/view?usp=sharing)], 2019
+- [VRMI Workshop](https://sites.google.com/view/iccv19-vrmi) at ICCV, "Towards Overcoming Style Variability in Medical Images" [[slides](https://drive.google.com/file/d/1aDhpjYnSTi_w4qJIo9Enj0Y6IleWWnz4/view?usp=sharing)], 2019
 - [LG CNS](http://www.lgcns.com/LGCNS.GHP.Main/Etc/SiteMain), "Deep Learning for Medical Image Analysis", 2018
 - [SK T-Brain](https://www.skt.ai/index.do), "Dual Attention Networks for Multimodal Reasoning and Matching", 2016
 - [StradVision](https://www.stradvision.com/), "Deep Learning for Visual Tracking", 2016
