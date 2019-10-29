@@ -67,8 +67,9 @@ My research interests include computer vision and deep learning with particular 
   European Conference on Computer Vision (**ECCV**), 2014<br />
   [[project](http://cvlab.postech.ac.kr/research/beyondchainmodels/)]
 
+
 ## Invited Talks
-- [VRMI](https://sites.google.com/view/iccv19-vrmi) Workshop at ICCV, 2019 [[slides]](https://drive.google.com/file/d/1aDhpjYnSTi_w4qJIo9Enj0Y6IleWWnz4/view?usp=sharing)
+- [VRMI Workshop](https://sites.google.com/view/iccv19-vrmi) at ICCV, 2019 [[slides](https://drive.google.com/file/d/1aDhpjYnSTi_w4qJIo9Enj0Y6IleWWnz4/view?usp=sharing)]
 - [LG CNS](http://www.lgcns.com/LGCNS.GHP.Main/Etc/SiteMain), 2018
 - [SK T-Brain](https://www.skt.ai/index.do), 2016
 - [StradVision](https://www.stradvision.com/), 2016
