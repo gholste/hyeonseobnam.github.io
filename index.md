@@ -32,7 +32,7 @@ My research interests include computer vision and deep learning with particular 
 - <span class="paper-title">[Reducing Domain Gap via Style-Agnostic Networks](https://arxiv.org/pdf/1910.11645.pdf)</span><br />
   **Hyeonseob Nam**, HyunJae Lee, Jongchan Park, Wonjun Yoon, Donggeun Yoo<br />
   Tech report, arXiv, 2019<br />
-  **The winner of VisDA-2019 challenge**
+  **1st place in VisDA-2019 challenge**
 
 - <span class="paper-title">[SRM: A Style-based Recalibration Module for Convolutional Neural Networks](https://arxiv.org/pdf/1903.10829.pdf)</span><br />
   HyunJae Lee, Hyo-Eun Kim, **Hyeonseob Nam**<br />
@@ -47,17 +47,17 @@ My research interests include computer vision and deep learning with particular 
 - <span class="paper-title">[Dual Attention Networks for Multimodal Reasoning and Matching](https://arxiv.org/pdf/1611.00471.pdf)</span><br />
   **Hyeonseob Nam**, Jung-Woo Ha, Jeonghee Kim<br />
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017 (**Spotlight**)<br />
-  **The runner-up of VQA-2016 challenge**
+  **2nd place in VQA-2016 challenge**
 
 - <span class="paper-title">[Modeling and Propagating CNNs in a Tree Structure for Visual Tracking](https://arxiv.org/pdf/1608.07242.pdf)</span><br />
   **Hyeonseob Nam**\*, Mooyeol Baek\*, Bohyung Han (\* equal contribution)<br />
   Tech report, arXiv, 2016<br />
-  **The winner of VOT-2016 challenge**
+  **1st place in VOT-2016 challenge**
   
 - <span class="paper-title">[Learning Multi-Domain Convolutional Neural Networks for Visual Tracking](https://arxiv.org/pdf/1510.07945.pdf)</span><br />
   **Hyeonseob Nam**, Bohyung Han<br />
   IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2016<br />
-  **The winner of VOT-2015 challenge**<br />
+  **1st place in VOT-2015 challenge**<br />
   [[project](http://cvlab.postech.ac.kr/research/mdnet/)]
   [[code-matlab](https://github.com/hyeonseobnam/MDNet)]
   [[code-python](https://github.com/hyeonseobnam/py-MDNet)]
@@ -78,9 +78,9 @@ My research interests include computer vision and deep learning with particular 
 
 ## Honors and Awards
 
-- **Winner**, [Visual Domain Adaptation (VisDA) Challenge](http://ai.bu.edu/visda-2019/), ICCV Workshop, 2019
-- **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), ECCV Workshop, 2016
-- **Runner-up**, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), CVPR Workshop, 2016
-- **Winner**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), ICCV Workshop, 2015
+- **1st place**, [Visual Domain Adaptation (VisDA) Challenge](http://ai.bu.edu/visda-2019/), ICCV Workshop, 2019
+- **1st place**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), ECCV Workshop, 2016
+- **2nd place**, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), CVPR Workshop, 2016
+- **1st place**, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), ICCV Workshop, 2015
 - Qualcomm Innovation Award, 2015
 
