@@ -27,7 +27,7 @@ My research interests include computer vision and deep learning with particular 
 - **Research Scientist**, [Lunit Inc.](https://lunit.io/?lang=en) (Dec. 2017 - Current)
 - **Research Engineer**, [NAVER Corp.](https://www.navercorp.com/en) (Mar. 2016 - Nov. 2017)
 
-## Publications
+## Selected Publications
 
 - <span class="paper-title">[Reducing Domain Gap via Style-Agnostic Networks](https://arxiv.org/pdf/1910.11645.pdf)</span><br />
   **Hyeonseob Nam**, HyunJae Lee, Jongchan Park, Wonjun Yoon, Donggeun Yoo<br />
