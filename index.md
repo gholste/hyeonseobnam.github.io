@@ -19,8 +19,8 @@ My research interests include computer vision and deep learning with particular 
 
 ## Work Experience 
 
-- **Research Scientist**, [Lunit Inc.](https://lunit.io/?lang=en) (Dec. 2017 - Current)
-- **Research Engineer**, [NAVER Corp.](https://www.navercorp.com/en) (Mar. 2016 - Nov. 2017)
+- **Research Scientist**, [Lunit](https://lunit.io/?lang=en) (Dec. 2017 - Current)
+- **Research Engineer**, [NAVER](https://www.navercorp.com/en) (Mar. 2016 - Nov. 2017)
 
 ## Selected Publications
 
