@@ -66,7 +66,7 @@ My research interests include computer vision and deep learning with particular 
 
 ## Invited Talks
 - [Kakao Brain](https://www.kakaobrain.com/), "Towards Robust AI against Image Style Variability", 2021
-- [VRMI Workshop](https://sites.google.com/view/iccv19-vrmi) at ICCV, "Towards Overcoming Style Variability in Medical Images", 2019
+- [ICCV Workshop (VRMI)](https://sites.google.com/view/iccv19-vrmi), "Towards Overcoming Style Variability in Medical Images", 2019
 - [LG CNS](https://www.lgcns.com/En/Home), "Deep Learning for Medical Image Analysis", 2018
 - [SK T-Brain](https://www.skt.ai/index.do), "Dual Attention Networks for Multimodal Reasoning and Matching", 2016
 - [StradVision](https://stradvision.com/), "Deep Learning for Visual Tracking", 2016
