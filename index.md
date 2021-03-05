@@ -25,8 +25,8 @@ My research interests include computer vision and deep learning with particular 
 ## Selected Publications
 
 - <span class="paper-title">[Reducing Domain Gap via Style-Agnostic Networks](https://arxiv.org/pdf/1910.11645.pdf)</span><br />
-  **Hyeonseob Nam**, HyunJae Lee, Jongchan Park, Wonjun Yoon, Donggeun Yoo<br />
-  Tech report, arXiv, 2019<br />
+  **Hyeonseob Nam**\*, HyunJae Lee\*, Jongchan Park, Wonjun Yoon, Donggeun Yoo (\* equal contribution)<br />
+  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2017 (**Oral**)<br />
   **1st place in VisDA-2019 challenge**<br />
   [[code](https://github.com/hyeonseobnam/style-agnostic-networks)]
 
