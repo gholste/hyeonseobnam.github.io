@@ -82,4 +82,4 @@ My research interests include computer vision and deep learning with particular 
   **Hyeonseob Nam**, Mooyeol Baek, Bohyung Han
 - ***Winner***, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), ICCV Workshop, 2015<br />
   **Hyeonseob Nam**, Bohyung Han
-- **Fellowship**, POSTECH-Qualcomm Fellowship, Qualcomm, 2014
+- ***Fellowship***, POSTECH-Qualcomm Fellowship, Qualcomm, 2014
