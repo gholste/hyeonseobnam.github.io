@@ -72,13 +72,14 @@ My research interests include computer vision and deep learning with particular 
 - [NAVER LABS](https://www.naverlabs.com/en/), "Deep Learning for Visual Tracking", 2015
 
 
-## Challenge Awards
+## Honors and Awards
 
-- ***1st Place***, [Visual Domain Adaptation (VisDA) Challenge](http://ai.bu.edu/visda-2019/), ICCV Workshop, 2019<br />
+- ***Winner***, [Visual Domain Adaptation (VisDA) Challenge](http://ai.bu.edu/visda-2019/), ICCV Workshop, 2019<br />
   **Hyeonseob Nam**, HyunJae Lee, Jongchan Park, Wonjun Yoon, Donggeun Yoo
-- ***2nd Place***, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), CVPR Workshop, 2016<br />
+- ***Runner-up***, [Visual Question Answering (VQA) Challenge](https://visualqa.org/challenge_2016.html), CVPR Workshop, 2016<br />
   **Hyeonseob Nam**, Jeonghee Kim
-- ***1st Place***, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), ECCV Workshop, 2016<br />
+- ***Winner***, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2016/), ECCV Workshop, 2016<br />
   **Hyeonseob Nam**, Mooyeol Baek, Bohyung Han
-- ***1st Place***, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), ICCV Workshop, 2015<br />
+- ***Winner***, [Visual Object Tracking (VOT) Challenge](http://www.votchallenge.net/vot2015/), ICCV Workshop, 2015<br />
   **Hyeonseob Nam**, Bohyung Han
+- **Fellowship**, POSTECH-Qualcomm Fellowship, Qualcomm, 2014
